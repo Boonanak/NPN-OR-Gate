@@ -1,6 +1,6 @@
-<h1>NPN Inverter (NOT Gate)</h1>
+<h1>NPN OR Gate</h1>
 
- ### [YouTube Demonstration](https://youtube.com/shorts/hMzYXwcFT7o?feature=share)
+ ### [YouTube Demonstration](https://youtube.com/shorts/FCx1ErD-6rw?feature=share)
 
 <h2>Description</h2>
 In this OR Gate that was made using NPN transistors, the LED is illuminated when either, or both, buttons are pressed. When a button is pressed current flows into the base pin of one of the transistors, which completes the circuit and allows the majority of the current to flow through the transistor from collector to emitter. However, as long as at least one of the buttons is pressed, the circuit will be completed as there are two potential paths that the current can take, and it can take both at the same time.
@@ -73,6 +73,6 @@ In this OR Gate that was made using NPN transistors, the LED is illuminated when
 
 <h2>Schematic:</h2>
 
-<img src="https://github.com/user-attachments/assets/d7ce8411-0446-4a3c-88c4-81addc21abd7" height="80%" width="80%" alt="NPN-Inverter"/>
+<img src="https://github.com/user-attachments/assets/9d876b60-89a3-42f1-9eca-8894e6622eeb" height="80%" width="80%" alt="NPN-Inverter"/>
 <br />
 <br />
